@@ -1,3 +1,3 @@
 [submodule "tec-coreos-config"]
 	path = tec-coreos-config
-	url = git@github.com:alicefr/tec-coreos-config.git
+	url = https://github.com/alicefr/tec-coreos-config.git
